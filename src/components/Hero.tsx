@@ -1,7 +1,8 @@
 import React, { useState, useEffect } from 'react';
 import { motion } from 'framer-motion';
 import { Download, Coffee, Code, Database } from 'lucide-react';
-import profilePic from "C:/Users/valim/Downloads/my portfolio/project/src/assets/Profile.jpg";
+import profilePic from "D:/Portfolio/src/assets/Profile.jpg";
+
 
 interface HeroProps {
   mousePosition: { x: number; y: number };
